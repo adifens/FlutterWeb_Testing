@@ -1,4 +1,4 @@
-# web_flutter
+# Flutter Web
 
 Flutter Web project. <br>
 live demo: https://adifensflutterweb.netlify.app <br>
